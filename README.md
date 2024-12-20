@@ -1,6 +1,8 @@
+**Developed by: Naveen R** 
+
+**RegisterNumber: 24900811**
+
 # BOOLEAN_FUNCTION_MINIMIZATION
-Developed by: Naveen R  
-RegisterNumber: 24900811
 
 **AIM:**
 
@@ -54,9 +56,10 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
 **LOGIC SYMBOL & TRUTH TABLE:**
+
 ![Screenshot 2024-11-29 112847](https://github.com/user-attachments/assets/1806ab50-639e-438c-8448-8d8dd7d8865f)
 
- ![Screenshot 2024-11-29 112931](https://github.com/user-attachments/assets/0d813979-7ee9-4b3e-b54a-d105e9546f19)
+   ![Screenshot 2024-11-29 112931](https://github.com/user-attachments/assets/0d813979-7ee9-4b3e-b54a-d105e9546f19)
 
 
 
